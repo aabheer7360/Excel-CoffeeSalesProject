@@ -76,7 +76,13 @@ Products like **Peppermint**, **Lemon Grass**, and **Spicy Eye Opener Chai** str
 
 ---
 
-## Tools Used:
+### Data Story
+
+The bottom products for all the stores include some flavours and other products like coffee beans. Also, the merchandise clothing sales for Hell's Kitchen is much lower than that of the other stores. We shall provide some discount offers at this store to increase sales. Another way to fix this would be to keep it available on order only. This will help us reduce the costs of operations.
+
+---
+
+### Tools Used
 
 ![image](https://github.com/user-attachments/assets/fb299a7b-10cd-4b48-9aa7-44aa867c46b0)
 
